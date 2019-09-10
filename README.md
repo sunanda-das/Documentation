@@ -1,8 +1,7 @@
 # Documentation
 
-| Column 1       | Column 2     | Column 3     |
-
-| :------------- | :----------: | -----------: |
-
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
